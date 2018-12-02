@@ -15,6 +15,7 @@ PROJECT DESCRIPTIONS
 Prerequisites
 
 i.	Server with PHP version equal or more than 5.6.12 (PHP version used: 7.2.1)
+
 ii.	Visual Studio Code
 
 Project criteria
