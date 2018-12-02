@@ -9,7 +9,7 @@ PROJECT TITLE
 PROJECT DESCRIPTIONS
 
 	Smart Tagging System is developed to solve the current problem which is student’s problem of keeping their belongings and at the same time to help ease administration to manage locker rental process. The project that will develop is one of the alternative ways or solutions for some of the current situation problem and to avoid the use of manually record that is not suitable for a large amount of data. The project is developed to reduce the limitation that the students face on keeping their belongings in a secure and systematic way. 
-
+	
 	For the administration that is currently running on a low margin, then this system is developed to help them by record and view rental information. In addition, this system also views the report analysis of rental information. This project also can be the platform for the student to know that they are secure from any unauthorized access to their belongings. 
 
 Prerequisites
